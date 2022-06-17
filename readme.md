@@ -2,8 +2,11 @@
 
 ## ch2-sort, ch4-graph
 
-1. 터미널에서 '소스코드' 폴더에 접근합니다.
-2. 아래 명령어를 실행 합니다.
+1. git clone https://github.com/Capstonedesign-Group-2/algorithm
+2. cd ./algorithm
+3. 각 파일을 실행하기 위해 아래 명령어를 실행 합니다.
+
+### ch2-sort
 
 ```
 node ./ch2-sort/ch2-2-BubbleSort.js
@@ -13,6 +16,8 @@ node ./ch2-sort/ch2-5-HeapSort.js
 node ./ch2-sort/ch2-6-MergeSort.js
 node ./ch2-sort/ch2-7-QuickSort.js
 ```
+
+### ch4-graph
 
 ```
 node ./ch4-graph/ch4-2-BFS.js
